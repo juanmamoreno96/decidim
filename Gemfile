@@ -11,6 +11,7 @@ gem "decidim", "0.27.3"
 # gem "decidim-initiatives", "0.27.3"
 # gem "decidim-templates", "0.27.3"
 
+#Añadidas gemas necesarias para la activación de los módulos solicitados
 gem "decidim-alternative_landing", git: "https://github.com/Platoniq/decidim-module-alternative_landing"
 gem "decidim-decidim_awesome"
 
